@@ -1,5 +1,5 @@
 {
-    "name": "fof/drafts",
+    "name": "giffgaff/drafts",
     "description": "Allow users to create post and discussion drafts",
     "keywords": [
         "flarum",
@@ -31,9 +31,6 @@
                 "backgroundColor": "#e74c3c",
                 "color": "#fff"
             }
-        },
-        "flagrow": {
-            "discuss": "https://discuss.flarum.org/d/20957-friendsofflarum-drafts"
         }
     }
 }
